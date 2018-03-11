@@ -1,11 +1,11 @@
 # Alfred Meme
 
-<center>
+<div align="center">
 <img src="https://user-images.githubusercontent.com/8135252/37255490-857c30e4-254d-11e8-9dfc-d7fb29f109db.gif" alr="Example of usage"/>
 
 _I'm using also [Alfred Emoji](https://github.com/jukben/alfred-emoji) - don't hesitate to check it out as well_
 
-</center>
+</div>
 
 This is basically a custom-tailored solution as most easier and quickest possible solution for search & past your favorite meme from your collection.
 
