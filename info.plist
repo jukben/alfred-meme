@@ -34,7 +34,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string></string>
+	<string>jukben</string>
 	<key>description</key>
 	<string>Easy way how to list through your image/meme folder</string>
 	<key>disabled</key>
@@ -175,6 +175,6 @@ It's not dumb if it works. *insert meme here*</string>
 	<key>version</key>
 	<string>1.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/jukben/alfred-meme/</string>
 </dict>
 </plist>
